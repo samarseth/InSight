@@ -24,4 +24,6 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:24.2.0'
     compile files('libs/jsoup-1.10.2.jar')
+    compile files('libs/org.apache.commons.httpclient.jar')
+    compile files('libs/httpclient-4.2.jar')
 }

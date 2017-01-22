@@ -86,7 +86,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void scrape(View view){
         Intent intent = new Intent(this, bestGuess.class);
-
         startActivity(intent);
     }
 
